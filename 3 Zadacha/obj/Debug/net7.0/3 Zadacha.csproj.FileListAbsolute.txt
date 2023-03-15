@@ -1,0 +1,15 @@
+D:\USER\Рабочий стол\курс разработчик\3 семинар\3 Zadacha\bin\Debug\net7.0\3 Zadacha.exe
+D:\USER\Рабочий стол\курс разработчик\3 семинар\3 Zadacha\bin\Debug\net7.0\3 Zadacha.deps.json
+D:\USER\Рабочий стол\курс разработчик\3 семинар\3 Zadacha\bin\Debug\net7.0\3 Zadacha.runtimeconfig.json
+D:\USER\Рабочий стол\курс разработчик\3 семинар\3 Zadacha\bin\Debug\net7.0\3 Zadacha.dll
+D:\USER\Рабочий стол\курс разработчик\3 семинар\3 Zadacha\bin\Debug\net7.0\3 Zadacha.pdb
+D:\USER\Рабочий стол\курс разработчик\3 семинар\3 Zadacha\obj\Debug\net7.0\3 Zadacha.csproj.AssemblyReference.cache
+D:\USER\Рабочий стол\курс разработчик\3 семинар\3 Zadacha\obj\Debug\net7.0\3 Zadacha.GeneratedMSBuildEditorConfig.editorconfig
+D:\USER\Рабочий стол\курс разработчик\3 семинар\3 Zadacha\obj\Debug\net7.0\3 Zadacha.AssemblyInfoInputs.cache
+D:\USER\Рабочий стол\курс разработчик\3 семинар\3 Zadacha\obj\Debug\net7.0\3 Zadacha.AssemblyInfo.cs
+D:\USER\Рабочий стол\курс разработчик\3 семинар\3 Zadacha\obj\Debug\net7.0\3 Zadacha.csproj.CoreCompileInputs.cache
+D:\USER\Рабочий стол\курс разработчик\3 семинар\3 Zadacha\obj\Debug\net7.0\3 Zadacha.dll
+D:\USER\Рабочий стол\курс разработчик\3 семинар\3 Zadacha\obj\Debug\net7.0\refint\3 Zadacha.dll
+D:\USER\Рабочий стол\курс разработчик\3 семинар\3 Zadacha\obj\Debug\net7.0\3 Zadacha.pdb
+D:\USER\Рабочий стол\курс разработчик\3 семинар\3 Zadacha\obj\Debug\net7.0\3 Zadacha.genruntimeconfig.cache
+D:\USER\Рабочий стол\курс разработчик\3 семинар\3 Zadacha\obj\Debug\net7.0\ref\3 Zadacha.dll
